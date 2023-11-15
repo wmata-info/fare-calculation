@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DC Metro API, hosted at `api.dcmet.ro`, offers a streamlined and efficient way to access real-time transit data. Built on FastAPI and SQLite3, this API integrates seamlessly with WMATA data, ensuring accuracy and timeliness. Our goal is to provide a user-friendly, accessible experience for developers and end-users alike.
+The DC Metro API, hosted at `api.dcmet.ro`, offers a streamlined and efficient way to access real-time transit data. Built on FastAPI and SQLite3, this API integrates seamlessly with WMATA data, ensuring accuracy and timeliness. We aim to provide a user-friendly, accessible experience for developers and end-users alike.
 
 ### Features
 
